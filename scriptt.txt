@@ -1,0 +1,41 @@
+8 Scratch Game Development
+Scratch Shooter Game Series 
+Tkinter (GUI) Series in Hindi  >App Development (code with harry ) 
+Vuejs -> design  (udemy)
+
+Create your own video games for web, desktop and mobile devices
+
+You will learn all the skills required to design, create and sell your video games
+
+Requirements 
+No prior knowledge of video game development is required
+No prior knowledge of programming is required
+
+des:
+This course is for anyone who wants to learn how to create video games for fun or profit. No knowledge of game development or computer programming is required to start this course.
+
+
+A comprehensive and easy-to-understand set of videos that demonstrate the best practices of game development and designing by showing you how to create five engaging games using Scratch 2.0.
+
+
+
+This video course shows you how to design and build several short games, then code and debug them, and finally publish and share them with the world. This course is a beginner’s guide to learning the basics of computer science and creating your own engaging and interactive games.
+
+You will learn how to make a character respond to input from your computer keyboard, and how to get onscreen objects to interact with each other in increasingly complex ways. Along the way, you will create more visual variety, more interactive possibilities, and have more fun.
+
+Following on from this, you’ll learn how to create a simple catch-and-avoid game, a ball-and-paddle “Breakout” game, a base-defence game, a point-and-click “escape the room” adventure game, and a maze game. You’ll learn to upload or create the artwork, how to control an onscreen object with a mouse, keyboard, or even by waving your hand in front of a webcam. We’ll also cover how to create some animation tricks, such as making a falling ball squish when it hits the floor, and making a character’s mouth move in synch with your own voice. Along the way, you’ll learn important computer science principles, such as if-then loops, iterative design, object-oriented programming, and debugging strategies.
+
+
+
+
+
+
+out:
+During the course, you will learn how to use free game development tools for Windows, Linux or Mac OS X, to create video games - starting with a blank screen
+Your first video game will have: 
+Visual effects (explosions!)
+Animation
+Sound effects
+Introduction screen
+Game-over screen
+Scoring 
